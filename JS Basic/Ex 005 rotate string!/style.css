@@ -1,0 +1,8 @@
+pre {
+  font-size: 5em;
+  color: blue;
+  display:flex;
+  align-self: center;
+  justify-content: center;
+
+}
