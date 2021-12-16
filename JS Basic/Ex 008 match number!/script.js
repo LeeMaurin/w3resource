@@ -4,5 +4,5 @@ const unum = prompt(`Enter a number between 1 and 10`);
 if (unum == num) {
   console.log(`Matched`);
 } else {
-  console.log(`Not matched, the random number is: ${num}`)
+  console.log(`Not matched, the random number is:99 ${num}`)
 }
