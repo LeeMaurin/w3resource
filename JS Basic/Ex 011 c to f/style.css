@@ -1,0 +1,16 @@
+form {
+  border: 1px solid black;
+
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  margin: 10px;
+}
+
+body {
+  background-color: blue;
+}
