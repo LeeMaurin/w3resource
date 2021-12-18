@@ -1,0 +1,13 @@
+#xyz {
+  width: 80px;
+  height: 250px;
+  border: 1px solid #3300FF;
+  display: flex;
+  flex-flow: row wrap;
+  align-content: space-around;
+}
+
+#xyz div {
+  width: 80px;
+  height: 80px;
+}
